@@ -1,0 +1,13 @@
+# 컴파일된 바이너리
+*.out
+*.exe
+*.o
+
+# macOS
+.DS_Store
+
+# VSCode (settings.json은 공유할 수 있어 제외하지 않음)
+.vscode/launch.json
+
+# Windows
+Thumbs.db
